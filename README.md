@@ -1,4 +1,4 @@
-# Ria — Personal Portfolio
+# RIALAN.DEV — Personal Portfolio
 
 A responsive static portfolio built with HTML, CSS, and vanilla JavaScript. No build step or package installation is required for the portfolio itself.
 
@@ -23,7 +23,7 @@ The EstiMate project included in the parent `PROJECT` folder is a separate Next.
 ## Evidence notes
 
 - SiNiKukiss, Toko Craft, and EstiMate were reviewed against source files in the supplied archive.
-- Docker API & PostgreSQL and Computational Biology are retained as requested, but their source files were not present in the supplied archive. Their cards intentionally avoid unsupported implementation claims and do not fabricate repository/demo URLs.
+- The portfolio currently showcases three projects: SiNiKukiss, Toko Craft, and EstiMate.
 - The Library Management System is not included in the portfolio UI or project data.
 - LinkedIn, GitHub, Instagram, email, and WhatsApp use the contact details supplied for this portfolio. WhatsApp is normalized to `6285815787878`, consistent with the SiNiKukiss source README.
 - The supplied profile image had a HEIF/HEIC file signature despite its `.jpg` extension; it was converted to a regular JPEG and resized for web use without generating or replacing the subject.
