@@ -19,20 +19,6 @@ const projectInfo = {
     features: ['Budget planning templates and generated material lists.', 'Project creation, project search, and material records in dashboard source.', 'Login, registration, password recovery, and auth callback routes are present.', 'Supabase calls are present for authentication and project/material persistence.'],
     tech: ['Next.js', 'React', 'TypeScript', 'Supabase'],
     note: 'The source includes Supabase integration, but no environment file or live backend configuration was provided. Production readiness and live authentication/database behavior have not been verified.'
-  },
-  'docker-api': {
-    eyebrow: 'APPLICATION · DETAILS TO CONFIRM', title: 'Docker API & PostgreSQL',
-    description: 'This project is retained as requested, based on its supplied project title.',
-    features: ['The relevant project source and documentation were not included in PROJECT.zip.', 'API endpoints, container configuration, database schema, and runtime behavior could not be reviewed.'],
-    tech: ['Docker', 'API', 'PostgreSQL'],
-    note: 'Technical details and a repository/demo link should be added after the project source is provided or its existing documentation is confirmed.'
-  },
-  'computational-biology': {
-    eyebrow: 'ACADEMIC PROJECT · DETAILS TO CONFIRM', title: 'Computational Biology',
-    description: 'This academic project is retained as requested, based on its supplied project title.',
-    features: ['The relevant project source, notebook, and documentation were not included in PROJECT.zip.', 'Methods, data sources, analysis steps, and results could not be verified from the provided archive.'],
-    tech: ['Computational biology'],
-    note: 'Add a verified project summary, technologies, and an appropriate repository or notebook link once the source files are available.'
   }
 };
 
