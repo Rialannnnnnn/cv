@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
 
 @media(min-width:561px) and (max-width:1050px){.projects-grid>.project-card:last-child:nth-child(odd){grid-column:1/-1;justify-self:center;width:calc(50% - 10px)}}
+
+.cv-view-link{display:inline-flex;align-items:center;gap:6px;padding:13px 4px;color:#8fc2ff;font-weight:700;font-size:.86rem;text-decoration:underline;text-underline-offset:4px;text-decoration-color:rgba(143,194,255,.4)}.cv-view-link:hover{color:#eef6ff;text-decoration-color:currentColor}.cv-view-link:focus-visible{outline:2px solid #60a5fa;outline-offset:3px;border-radius:6px}
